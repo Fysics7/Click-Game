@@ -1,60 +1,48 @@
 [{
 
         "id": 1,
-        "image": "https://www.pexels.com/photo/close-up-conceptual-discovery-education-207428/"
+        "image": "https://images.pexels.com/photos/2166/flight-sky-earth-space.jpg?h=90&auto=compress&cs=tinysrgb"
     },
 
+    
     {
         "id": 2,
-        "image": "https://www.pexels.com/photo/flight-sky-earth-space-2166/"
+        "image": "https://images.pexels.com/photos/256369/pexels-photo-256369.jpeg?h=90&auto=compress&cs=tinysrgb"
     },
 
     
     {
         "id": 3,
-        "image": "https://www.pexels.com/photo/close-up-of-text-256369/"
+        "image": "https://images.pexels.com/photos/73910/mars-mars-rover-space-travel-robot-73910.jpeg?h=90&auto=compress&cs=tinysrgb"
     },
 
     
     {
         "id": 4,
-        "image": "https://www.pexels.com/photo/gray-and-white-robot-73910/"
+        "image": "https://images.pexels.com/photos/2152/sky-earth-space-working.jpg?h=90&auto=compress&cs=tinysrgb"
     },
 
     
     {
         "id": 5,
-        "image": "https://www.pexels.com/photo/sky-earth-space-working-2152/"
+        "image": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?h=90&auto=compress&cs=tinysrgb"
     },
 
     
     {
         "id": 6,
-        "image": "https://www.pexels.com/photo/focus-photo-of-super-mario-luigi-and-yoshi-figurines-163036/"
+        "image": "https://images.pexels.com/photos/1367227/pexels-photo-1367227.jpeg?h=90&auto=compress&cs=tinysrgb"
     },
-
     
     {
         "id": 7,
-        "image": "https://www.pexels.com/photo/person-holding-nintendo-ds-1367227/"
+        "image": "https://images.pexels.com/photos/18174/reflection-pad-gaming-gamepad.jpg?h=90&auto=compress&cs=tinysrgb"
     },
 
     
     {
         "id": 8,
-        "image": "https://www.pexels.com/photo/blur-close-up-controller-entertainment-139038/"
-    },
-
-    
-    {
-        "id": 9,
-        "image": "https://www.pexels.com/photo/reflection-playstation-pad-gaming-18174/"
-    },
-
-    
-    {
-        "id": 10,
-        "image": "https://www.pexels.com/photo/black-microsoft-xbox-game-controller-1298601/"
+        "image": "https://images.pexels.com/photos/1298601/pexels-photo-1298601.jpeg?h=90&auto=compress&cs=tinysrgb"
     }
 
 ]
