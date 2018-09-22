@@ -1,5 +1,5 @@
 import React from "react";
-import "./tiles.css";
+import "./Tiles.css";
 
 //tiles component is rending the tiles on the screen
 // this component is stateless

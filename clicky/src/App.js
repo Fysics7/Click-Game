@@ -11,7 +11,7 @@ state = {
   nerdStuff,
   clickedNerdIds: [],
   score: 0,
-  goal: 10,
+  goal: 8,
   status: ""
 };
 
@@ -26,8 +26,8 @@ shuffleScoreTiles = id => {
     else{
       clickedNerdIds.push(id)
 
-      if(clickedNerdIds.length === 10){
-        this.setState({ clickedNerdIds: [], score: 10, status: "YOU WON! Nice Work! Think you can do it again! Click to try!", clickedNerdIds: []});
+      if(clickedNerdIds.length === 8){
+        this.setState({ score: 8, status: "YOU WON! Nice Work! Think you can do it again! Click to try!", clickedNerdIds: []});
         console.log("You Won");
         return;
       }
@@ -47,13 +47,13 @@ render() {
   return (
   <div className="App">
     <header className="App-header">
-    <h1 className="App-title">Nerd Stuff Clicker</h1>
+    <h1 className="App-title">Geeky Stuff Clicker Game</h1>
     <p className="App-intro">
       Attempt to only click the same image ONCE!
     </p>
       </header>
         <Score total={this.state.score}
-        goal={10}
+        goal={8}
         status={this.state.status}
         />
   <Wrapper>
