@@ -1,49 +1,81 @@
 [{
 
         "id": 1,
-        "image": "https://images.pexels.com/photos/2166/flight-sky-earth-space.jpg?h=90&auto=compress&cs=tinysrgb"
+        "image": "https://images.pexels.com/photos/2166/flight-sky-earth-space.jpg?h=350&auto=compress&cs=tinysrgb"
     },
 
     
     {
         "id": 2,
-        "image": "https://images.pexels.com/photos/256369/pexels-photo-256369.jpeg?h=90&auto=compress&cs=tinysrgb"
+        "image": "https://images.pexels.com/photos/256369/pexels-photo-256369.jpeg?h=350&auto=compress&cs=tinysrgb"
     },
 
     
     {
         "id": 3,
-        "image": "https://images.pexels.com/photos/73910/mars-mars-rover-space-travel-robot-73910.jpeg?h=90&auto=compress&cs=tinysrgb"
+        "image": "https://images.pexels.com/photos/73910/mars-mars-rover-space-travel-robot-73910.jpeg?h=350&auto=compress&cs=tinysrgb"
     },
 
     
     {
         "id": 4,
-        "image": "https://images.pexels.com/photos/2152/sky-earth-space-working.jpg?h=90&auto=compress&cs=tinysrgb"
+        "image": "https://images.pexels.com/photos/2152/sky-earth-space-working.jpg?h=350&auto=compress&cs=tinysrgb"
     },
 
     
     {
         "id": 5,
-        "image": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?h=90&auto=compress&cs=tinysrgb"
+        "image": "https://images.pexels.com/photos/163036/mario-luigi-yoschi-figures-163036.jpeg?h=350&auto=compress&cs=tinysrgb"
     },
 
     
     {
         "id": 6,
-        "image": "https://images.pexels.com/photos/1367227/pexels-photo-1367227.jpeg?h=90&auto=compress&cs=tinysrgb"
+        "image": "https://images.pexels.com/photos/1367227/pexels-photo-1367227.jpeg?h=350&auto=compress&cs=tinysrgb"
     },
     
     {
         "id": 7,
-        "image": "https://images.pexels.com/photos/18174/reflection-pad-gaming-gamepad.jpg?h=90&auto=compress&cs=tinysrgb"
+        "image": "https://images.pexels.com/photos/18174/reflection-pad-gaming-gamepad.jpg?h=350&auto=compress&cs=tinysrgb"
     },
 
     
     {
         "id": 8,
-        "image": "https://images.pexels.com/photos/1298601/pexels-photo-1298601.jpeg?h=90&auto=compress&cs=tinysrgb"
+        "image": "https://images.pexels.com/photos/4316/technology-computer-chips-gigabyte.jpg?h=350&auto=compress&cs=tinysrgb"
+    },
+
+    {
+        "id": 9,
+        "image": "https://images.pexels.com/photos/296121/pexels-photo-296121.jpeg?h=350&auto=compress&cs=tinysrgb"
+    },
+
+    {
+        "id": 10,
+        "image": "https://images.pexels.com/photos/1298601/pexels-photo-1298601.jpeg?h=350&auto=compress&cs=tinysrgb"
+    },
+
+    {
+        "id": 11,
+        "image": "https://images.pexels.com/photos/370470/pexels-photo-370470.jpeg?h=350&auto=compress&cs=tinysrgb"
+    },
+
+    {
+        "id": 12,
+        "image": "https://images.pexels.com/photos/296116/pexels-photo-296116.jpeg?h=350&auto=compress&cs=tinysrgb"
+    },
+
+    {
+        "id": 13,
+        "image": "https://images.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jpeg?h=350&auto=compress&cs=tinysrgb"
+    },
+
+    {
+        "id": 14,
+        "image": "https://images.pexels.com/photos/220357/pexels-photo-220357.jpeg?h=350&auto=compress&cs=tinysrgb"
     }
+
+   
 
 ]
 
