@@ -13,7 +13,7 @@ image twice. If they do, the game ends.  If the user continues to click images, 
 
 ## Installation Instructions
 1. Fork the github repository and then clone the forked repository to your computer.  
-2. At the command line navigate to the apps `src` folder, right click, select `Open from Terminal`, and type `npm install`, this will install all the necessary npm dependencies from the package.json file.
+2. At the command line navigate to the apps `src` folder, right click, select `Open from Terminal`, and type `npm       install`, this will install all the necessary npm dependencies from the package.json file.
 3. After all the necessary dependencies have been installed, type `yarn start`.
 4. Your browser will be loaded to the url `http://localhost:3000/`.
 5. At this point, you should see the application.
